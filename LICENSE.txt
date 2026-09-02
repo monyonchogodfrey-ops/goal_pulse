@@ -1,0 +1,2 @@
+Goal Pulse Predictions project starter.
+Use and modify this code for your own website. Third-party packages retain their own licenses.
